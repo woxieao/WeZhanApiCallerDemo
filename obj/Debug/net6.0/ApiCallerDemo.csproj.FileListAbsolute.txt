@@ -1,0 +1,14 @@
+D:\Data\ymgit\ApiCallerDemo\bin\Debug\net6.0\ApiCallerDemo.exe
+D:\Data\ymgit\ApiCallerDemo\bin\Debug\net6.0\ApiCallerDemo.deps.json
+D:\Data\ymgit\ApiCallerDemo\bin\Debug\net6.0\ApiCallerDemo.runtimeconfig.json
+D:\Data\ymgit\ApiCallerDemo\bin\Debug\net6.0\ApiCallerDemo.dll
+D:\Data\ymgit\ApiCallerDemo\bin\Debug\net6.0\ApiCallerDemo.pdb
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.AssemblyInfoInputs.cache
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.AssemblyInfo.cs
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.csproj.CoreCompileInputs.cache
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.dll
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\refint\ApiCallerDemo.dll
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.pdb
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ApiCallerDemo.genruntimeconfig.cache
+D:\Data\ymgit\ApiCallerDemo\obj\Debug\net6.0\ref\ApiCallerDemo.dll

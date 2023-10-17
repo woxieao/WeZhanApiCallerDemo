@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCallerDemo", "ApiCallerDemo.csproj", "{6B05CA76-8266-460F-886C-D9E6301736DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B05CA76-8266-460F-886C-D9E6301736DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B05CA76-8266-460F-886C-D9E6301736DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B05CA76-8266-460F-886C-D9E6301736DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B05CA76-8266-460F-886C-D9E6301736DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8511BF9A-B84C-4AEB-A6EF-FC61CD08BE39}
+	EndGlobalSection
+EndGlobal
